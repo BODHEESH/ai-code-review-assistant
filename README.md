@@ -170,3 +170,24 @@ Common issues and their solutions:
 The AI Code Review Assistant provides a powerful platform for developers to receive instant, AI-powered code reviews. By leveraging modern web technologies and cloud services, it offers a seamless, responsive, and efficient user experience. This documentation serves as a comprehensive guide for setting up, understanding, and potentially extending the project.
 
 For further assistance or contributions, please refer to the project's GitHub repository or contact the development team.
+
+
+# AI Code Review Assistant: Screenshots of pages
+
+### Screenshots
+
+![Screenshot 1](https://github.com/BODHEESH/ai-code-review-assistant/blob/30a6f8cb2f37f3cf845f332102ea62557961efc2/Screenshot%202024-09-14%20020042.png)
+![Screenshot 2](https://github.com/BODHEESH/ai-code-review-assistant/blob/30a6f8cb2f37f3cf845f332102ea62557961efc2/Screenshot%202024-09-14%20020116.png)
+![Screenshot 3](https://github.com/BODHEESH/ai-code-review-assistant/blob/30a6f8cb2f37f3cf845f332102ea62557961efc2/Screenshot%202024-09-14%20020143.png)
+![Screenshot 4](https://github.com/BODHEESH/ai-code-review-assistant/blob/30a6f8cb2f37f3cf845f332102ea62557961efc2/Screenshot%202024-09-14%20014834.png)
+![Screenshot 5](https://github.com/BODHEESH/ai-code-review-assistant/blob/30a6f8cb2f37f3cf845f332102ea62557961efc2/Screenshot%202024-09-14%20014808.png)
+![Screenshot 6](https://github.com/BODHEESH/ai-code-review-assistant/blob/30a6f8cb2f37f3cf845f332102ea62557961efc2/Screenshot%202024-09-14%20014735.png)
+
+![Screenshot 7](https://github.com/BODHEESH/ai-code-review-assistant/blob/b1df047e912bde45dcb13b7e9f4645f669ee4189/Screenshot%202024-09-14%20020945.png)
+![Screenshot 8](https://github.com/BODHEESH/ai-code-review-assistant/blob/b1df047e912bde45dcb13b7e9f4645f669ee4189/Screenshot%202024-09-14%20021144.png)
+![Screenshot 9](https://github.com/BODHEESH/ai-code-review-assistant/blob/b1df047e912bde45dcb13b7e9f4645f669ee4189/Screenshot%202024-09-14%20021204.png)
+![Screenshot 10](https://github.com/BODHEESH/ai-code-review-assistant/blob/b1df047e912bde45dcb13b7e9f4645f669ee4189/Screenshot%202024-09-14%20021245.png)
+![Screenshot 11](https://github.com/BODHEESH/ai-code-review-assistant/blob/b1df047e912bde45dcb13b7e9f4645f669ee4189/Screenshot%202024-09-14%20021258.png)
+![Screenshot 12](https://github.com/BODHEESH/ai-code-review-assistant/blob/b1df047e912bde45dcb13b7e9f4645f669ee4189/Screenshot%202024-09-14%20021309.png)
+![Screenshot 13](https://github.com/BODHEESH/ai-code-review-assistant/blob/b1df047e912bde45dcb13b7e9f4645f669ee4189/Screenshot%202024-09-14%20021343.png)
+
