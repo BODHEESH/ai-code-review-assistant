@@ -53,7 +53,7 @@ export default function SignUp() {
             });
 
             toast.success("Sign up successful!");
-            setTimeout(() => router.push("/home"), 2000);
+            setTimeout(() => router.push("/dashboard"), 2000);
         } catch (err) {
             toast.error(err.message);
         } finally {
