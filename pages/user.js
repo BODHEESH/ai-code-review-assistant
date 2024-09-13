@@ -1,6 +1,6 @@
 // pages/profile.js
 
-export default function Profile() {
+export default function User() {
     const router = useRouter();
     const [userData, setUserData] = useState(null);
     const [threads, setThreads] = useState([]);
@@ -286,7 +286,7 @@ export default function Profile() {
                         animate={{ opacity: 1, x: 0 }}
                         transition={{ duration: 0.5, delay: 0.4 }}
                         className="p-6 bg-white rounded shadow"
-                        style={{ height: '600px', overflowY: 'auto' }} 
+                        style={{ height: '600px', overflowY: 'auto' }}
                     >
                         <div className="flex justify-between items-center mb-4">
                             <h3 className="text-xl font-bold">Chat History</h3>

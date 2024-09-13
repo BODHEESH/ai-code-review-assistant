@@ -14,7 +14,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 export default function Navbar() {
     const { user } = useAuth();
-    const [isModalOpen, setIsModalOpen] = useState(false); // 
+    const [isModalOpen, setIsModalOpen] = useState(false); 
 
     const handleLogout = async () => {
         try {
@@ -53,10 +53,10 @@ export default function Navbar() {
                     <div className="flex flex-wrap items-center space-x-10 mt-2 sm:mt-0">
                         {user ? (
                             <>
-                                <Link href="/home" className="mr-4 hover:text-gray-300 ml-10">
+                                <Link href="/dashboard" className="mr-4 hover:text-gray-300 ml-10">
                                     Home
                                 </Link>
-                                <Link href="/profile" className="mr-4 hover:text-gray-300">
+                                <Link href="/user" className="mr-4 hover:text-gray-300">
                                     Profile
                                 </Link>
                                 <ArrowPathIcon className="h-6 w-6 text-gray-500 cursor-pointer" onClick={handleRefresh} />
