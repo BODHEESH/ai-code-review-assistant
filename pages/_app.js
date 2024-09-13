@@ -4,8 +4,8 @@ import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import '../styles/globals.css';
 import Layout from '../components/Layout';
-import { messaging } from '../lib/firebase';
-import { getToken } from "firebase/messaging";
+// import { messaging } from '../lib/firebase';
+// import { getToken } from "firebase/messaging";
 import { useAuth } from '../lib/useAuth.js';
 
 function MyApp({ Component, pageProps }) {
