@@ -56,7 +56,7 @@ export default function Navbar() {
                                 <Link href="/dashboard" className="mr-4 hover:text-gray-300 ml-10">
                                     Home
                                 </Link>
-                                <Link href="/user" className="mr-4 hover:text-gray-300">
+                                <Link href="/profile" className="mr-4 hover:text-gray-300">
                                     Profile
                                 </Link>
                                 <ArrowPathIcon className="h-6 w-6 text-gray-500 cursor-pointer" onClick={handleRefresh} />

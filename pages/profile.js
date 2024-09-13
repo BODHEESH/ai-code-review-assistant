@@ -1,5 +1,14 @@
 // pages/profile.js
 
+
+import { useState, useEffect, useCallback } from 'react';
+import { useRouter } from 'next/router';
+import { auth, db } from "../lib/firebase";
+import { collection, query, where, getDocs, getDoc, orderBy, doc, updateDoc } from "firebase/firestore";
+import { motion, AnimatePresence } from 'framer-motion';
+import { XMarkIcon, PencilIcon } from '@heroicons/react/24/solid';
+import { LineChart, Line, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';   
+
 export default function Profile() {
     const router = useRouter();
     const [userData, setUserData] = useState(null);
